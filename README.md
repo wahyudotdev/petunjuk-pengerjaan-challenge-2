@@ -64,3 +64,6 @@ class NoteBloc extends Bloc<NoteEvent, NoteState> {
 }
 
 ```
+
+### 11. Cara mudah mengambil foto dari gallery dan kamera ?
+Silahkan gunakan utility class [MediaService](https://wahyudotdev.gitbook.io/petunjuk-challenge-2/) dari fluttercore
